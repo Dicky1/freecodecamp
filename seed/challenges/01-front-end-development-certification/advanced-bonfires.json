@@ -58,7 +58,7 @@
         "RegExp"
       ],
       "challengeType": 5,
-      "titleEs": "Valida Números Telefónicos de los EEUU",
+      "title": "Ayok belajar bareng bersama kami",
       "descriptionEs": [
         "Haz que la función devuelva true (verdadero) si el texto introducido es un número válido en los EEUU.",
         "El usuario debe llenar el campo del formulario de la forma que desee siempre y cuando sea un número válido en los EEUU. Los números mostrados a continuación tienen formatos válidos en los EEUU:",
@@ -69,7 +69,7 @@
     },
     {
       "id": "a3f503de51cf954ede28891d",
-      "title": "Symmetric Difference",
+      "title": "Disini kalian akan mendapatkan pembelajaran untuk reacr js",
       "description": [
         "Create a function that takes two or more arrays and returns an array of the <dfn>symmetric difference</dfn> (<code>&xutri;</code> or <code>&oplus;</code>) of the provided arrays.",
         "Given two sets (for example set <code>A = {1, 2, 3}</code> and set <code>B = {2, 3, 4}</code>), the mathematical term \"symmetric difference\" of two sets is the set of elements which are in either of the two sets, but not in both (<code>A &xutri; B = C = {1, 4}</code>). For every additional symmetric difference you take (say on a set <code>D = {2, 3}</code>), you should get the set with elements which are in either of the two the sets but not both (<code>C &xutri; D = {1, 4} &xutri; {2, 3} = {1, 2, 3, 4}</code>).",
@@ -112,7 +112,7 @@
     },
     {
       "id": "aa2e6f85cab2ab736c9a9b24",
-      "title": "Exact Change",
+      "title": "Latihan pembelajaran",
       "description": [
         "Design a cash register drawer function <code>checkCashRegister()</code> that accepts purchase price as the first argument (<code>price</code>), payment as the second argument (<code>cash</code>), and cash-in-drawer (<code>cid</code>) as the third argument.",
         "<code>cid</code> is a 2D array listing available currency.",
