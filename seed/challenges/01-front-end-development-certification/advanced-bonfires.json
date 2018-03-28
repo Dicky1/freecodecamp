@@ -114,7 +114,7 @@
       "id": "aa2e6f85cab2ab736c9a9b24",
       "title": "Exact Change",
       "description": [
-        "Design a cash register drawer function <code>checkCashRegister()</code> that accepts purchase price as the first argument (<code>price</code>), payment as the second argument (<code>cash</code>), and cash-in-drawer (<code>cid</code>) as the third argument.",
+        "belajar reactjs itu mudah di ibiratkan memudahkan telapak tangan",
         "<code>cid</code> is a 2D array listing available currency.",
         "Return the string <code>\"Insufficient Funds\"</code> if cash-in-drawer is less than the change due. Return the string <code>\"Closed\"</code> if cash-in-drawer is equal to the change due.",
         "Otherwise, return change in coin and bills, sorted in highest to lowest order.",
